@@ -1,0 +1,16 @@
+{
+"app_id": "wx0287ac28a6cbf6e3",
+"app_secret": "9f20df833b060dabf68b0ec100d11552",
+"template_id": "l6Q4eurF6U8P6kEF5WPImSe9ZvHaDHO45vPhz2ezvKA",
+"user": ["oeu016JNm-IU30bGk1H6CsPXanzQ"],
+ 
+"weather_key": "10806bcddf5944cebe50548244ec3a7d",
+"region": "吴兴区",
+"birthday1": {"name": "王飞扬", "birthday": "2003-05-02"},
+"birthday2": {"name": "盛钰楠", "birthday": "2003-04-01"},
+"love_date": "2018-08-01",
+# 金句中文
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
